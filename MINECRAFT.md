@@ -6,6 +6,7 @@
    1. You'll need to install these with whatever profile you setup initially
    2. <https://www.curseforge.com/minecraft/mc-mods/storage-drawers>
    3. <https://www.curseforge.com/minecraft/mc-mods/clumps>
+   4. <https://www.curseforge.com/minecraft/mc-mods/quark>
 4. Launch the game
 ![image](https://user-images.githubusercontent.com/1448727/172022538-853d3df9-bbe4-401d-abaa-466a2806c0e0.png)
 5. Go to `Multiplayer`
