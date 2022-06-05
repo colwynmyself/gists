@@ -22,7 +22,7 @@ Shaders aren't required, but they make the game look pretty! To use custom shade
 1. You can use any shaderpack you like; most can downloaded from CurseForge in the ["customization" category](https://www.curseforge.com/minecraft/customization) by searching "shaders". I used the option with the most downloads, "BSL Shaders", but the process should be the same for any shaderpack. Note that it's easier to find these on the CurseForge website than it is in the CurseForge app, because...reasons.
 2. Click the download button on the shaderpack that you chose. This will not install it in CurseForge, but it will download a `.zip` file for you.
 3. Repeat step 2 from "Installing OptiFine" above, opening up your profile folder.
-4. Create a new folder here called `shaderpacks`. The name *must match exactly*.
+4. Create a new folder here called `shaderpacks` as a _sibling_ to the `mods` folder. The name *must match exactly* and cannot be inside of `mods/`.
 5. Move the `.zip` file you downloaded in step 2 into this folder. *Do not unzip it!*
 ### Enabling shaders
 1. Boot the game as you would normally using CurseForge.
